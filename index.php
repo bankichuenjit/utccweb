@@ -1,5 +1,5 @@
 <?php
-  $link = mysqli_connect("localhost","root","","utcc")
+  $link = mysqli_connect("localhost","id13447456_root","teR&Js[OH}cj2Bq9","id13447456_utcc")
   or die("cann't connect to DB.");  
   $sql = "SELECT * FROM news";
   $result = mysqli_query($link,$sql);
